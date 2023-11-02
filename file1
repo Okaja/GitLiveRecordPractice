@@ -1,3 +1,5 @@
 Welcome to git Class
 We have a timeline but we must always practice, practice
 The more we use the command the more we understand the concept
+The git -m --cached filename is used to remove the file from the staging directory to the working directory
+We use the git restore to remove any changes we made to to a file in the working enviornment that hasn't yet been staged:
